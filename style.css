@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background: linear-gradient(#16adb5 0%, #143ae0 100%);
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+#My-name {
+    font-family: 'Langar', cursive;
+}
+
+.link:hover {
+    background-color: chartreuse;
+}
+
+.link {
+    float: left;
+    color: blue;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: inherit;
+    font-size: 20px;
+}
+
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
